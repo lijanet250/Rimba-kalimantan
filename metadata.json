@@ -1,0 +1,8 @@
+{
+  "name": "Rimba Kalimantan — Paru-Paru Nusantara & Krisis Karhutla",
+  "description": "Portal interaktif edukasi dan kampanye perlindungan hutan Kalimantan: pemantauan titik api (karhutla), analisis kondisi alam, satwa endemik, serta aksi nyata pelestarian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
